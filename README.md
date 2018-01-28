@@ -82,7 +82,7 @@ Source and additional resources for Sublime setup can be found here: https://gis
 
 # Atom Configuration
 
-View my package list or generate your own package list:
+View [my package list](https://github.com/Rmafive/dotfiles/blob/master/atom/atom-packages.txt) or generate your own package list:
 
      apm list --installed --bare > package-list.txt
 
