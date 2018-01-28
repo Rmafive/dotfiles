@@ -3,6 +3,7 @@ Robert's Configuration dotfiles
 
 ## Table of Contents:
 1. [ZSH Terminal Setup](#zsh-iterm-config)
+2. [Atom configuration](#atom-configuration)
 
 # ZSH iTerm Config
 
@@ -78,3 +79,15 @@ export VISUAL='subl'
 If your .zshrc file opens in Sublime you are good to go! 
 
 Source and additional resources for Sublime setup can be found here: https://gist.github.com/barnes7td/3804534
+
+# Atom Configuration
+
+View my package list or generate your own package list:
+
+     apm list --installed --bare > package-list.txt
+
+Import my list using: 
+
+    apm install --packages-file ./package-list.txt
+
+
