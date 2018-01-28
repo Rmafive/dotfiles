@@ -7,7 +7,7 @@ Robert's Configuration dotfiles
 # ZSH iTerm Config
 
 ## tl;dr
-- Editor: [Sublime](https://github.com/powerline/fonts/blob/master/Meslo%20Slashed/Meslo%20LG%20M%20Regular%20for%20Powerline.ttf)
+- Editor: [Sublime](https://www.sublimetext.com/)
 - ZSH: [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh)
     - Theme: [https://github.com/bhilburn/powerlevel9k](https://github.com/bhilburn/powerlevel9k)
 - Terminal: [iTerm](https://www.iterm2.com/)
