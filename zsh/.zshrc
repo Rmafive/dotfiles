@@ -215,3 +215,4 @@ alias openPorts='sudo lsof -i | grep LISTEN'        # openPorts:    All listenin
 #   7.  Personal Aliases
 #   ---------------------------------------
 
+BUTTSTUFF=mull
